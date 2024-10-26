@@ -1,5 +1,5 @@
 import pandas as pd
-data = pd.read_csv('/Users/victoria/Python_f/car_sales_ads_project/car_sales_ads/vehicles_us.csv')
+data = pd.read_csv('vehicles_us.csv')
 
 # Eliminate duplicates in 'model' column
 for model in data['model'].unique():
@@ -139,7 +139,7 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
-data=pd.read_csv('/Users/victoria/Python_f/car_sales_ads_project/car_sales_ads/vehicles_us.csv')
+data=pd.read_csv('vehicles_us.csv')
 st.subheader('Use this app to select a car based on the preferred parameters.')
 
 import urllib.request
