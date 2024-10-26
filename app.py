@@ -139,7 +139,6 @@ import streamlit as st
 import plotly.express as px
 from PIL import Image
 
-data=pd.read_csv('vehicles_us.csv')
 st.subheader('Use this app to select a car based on the preferred parameters.')
 
 import urllib.request
