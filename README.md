@@ -5,8 +5,8 @@ This project involved the development and deployment of a public-facing web appl
 
 The application offers the following features:
 
-**Customizable Search:** Users can filter cars by specifying a price range in slider and a checkbox option to show only listings in "New," "Like New," and "Excellent" condition.
-**Dynamic Data Insights:** Filtered search results include a breakdown by car condition and price in scatter plot and histogram displaying the distribution of distance driven for the selected cars.
+**Customizable Search:** Users can filter cars by specifying a price range in slider and a checkbox option to show only listings in "New," "Like New," and "Excellent" condition. <br>
+**Dynamic Data Insights:** Filtered search results include a breakdown by car condition and price in scatter plot and histogram displaying the distribution of distance driven for the selected cars. <br>
 **Recommendations List:** Users receive a final list of recommended cars based on their specified criteria.
 
 This tool streamlines the car selection process, providing potential buyers with a curated list of vehicles to help them make informed purchasing decisions.¶
